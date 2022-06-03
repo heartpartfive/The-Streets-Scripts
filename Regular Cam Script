@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/heartpartfive/The-Streets-Scripts/main/Regular%20Cam%20Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/heartpartfive/The-Streets-Scripts/main/Regular%20Cam%20Script", true))()
